@@ -8,6 +8,7 @@ public class Amazon extends product
 	}
 
 	@Override
+	//initialized
 	public void showproductprice() {
 		System.out.println("product price range:$300 to $1000");
 		
